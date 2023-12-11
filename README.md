@@ -15,4 +15,10 @@
     <img align="Center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img align="Center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img align="Center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+</div><br/>
+
+Codando no presente, visando o futuro.
+
+## Ultimo projeto:
+- Utilizando vba, criei um sistema para o controle de espécies marinhas coletadas para análise.<br/>
+-
