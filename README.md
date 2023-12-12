@@ -3,9 +3,9 @@
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diodata.dev/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-luiz-ti/)
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-luiz&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-luiz&hide_progress=true)
+![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-luiz&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
