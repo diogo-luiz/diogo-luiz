@@ -19,7 +19,7 @@
     <img align="Center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br/>
 
-Codando no presente, visando o futuro.
+✌️✌️✌️
 
 ## Ultimo projeto:
 - Utilizando vba, criei um sistema para o controle de espécies marinhas coletadas para análise.<br/>
