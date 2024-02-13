@@ -22,5 +22,4 @@
 ✌️✌️✌️
 
 ## Ultimo projeto:
-- Utilizando vba, criei um sistema para o controle de espécies marinhas coletadas para análise.<br/>
--
+- Utilizando vba, criei um sistema para verificar e manipular dados de espécies bentônicas coletada no litoral de Paranaguá.<br/>
