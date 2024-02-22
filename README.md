@@ -21,5 +21,8 @@
 
 ✌️✌️✌️
 
-## Ultimo projeto:
-- Utilizando vba, criei um sistema para verificar e manipular dados de espécies bentônicas coletada no litoral de Paranaguá.<br/>
+## Ultimos projeto:
+- Sistema para verificar e manipular dados de espécies bentônicas coletada no litoral de Paranaguá.<br/>
+- App para verificar ensalamento de alunos<br/>
+- App para gerenciar abertura e fechamento de salas, assim como problemas a serem resolvidos na sala.<br/>
+- Estou trabalhando em um projeto para criar um sistema para barbearia.
